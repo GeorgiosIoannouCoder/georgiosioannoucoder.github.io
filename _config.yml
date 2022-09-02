@@ -1,0 +1,71 @@
+# Site settings
+title: GeorgiosIoannouCoder
+email: gioanno000@citymail.cuny.edu
+url: https://georgiosioannoucoder.github.io/
+description: "GeorgiosIoannouCoder GitHub Pages" # "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "Data Science, Full-Stack Web App Development, Project"
+skills: "Data Science | Full-Stack Web App Development"
+meta_author: Ioannou Georgios
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: c7b268
+  primary-rgb: "199,178,104"
+  secondary: 78726d
+  secondary-dark: 9c8842
+
+# Footer settings
+footer:
+  copyright: Georgios Ioannou
+  location: # Location
+  social: Around the Web
+  credits: # Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url:
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url:
+  # - title: bitbucket
+  #   url:
+  - title: github
+    url: https://github.com/GeorgiosIoannouCoder
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line:
+
+# Credits content
+credits:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
