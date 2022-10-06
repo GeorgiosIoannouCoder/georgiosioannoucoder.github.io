@@ -497,7 +497,23 @@ footer .footer-below {
     padding-left: 40mm;
   }
 
-.ccny {
+a:link, .ccny {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a:visited, a:hover, a:active {
+    color: #7d55c7;
+  }
+
+.slogan {
     color: #78726d;
-    background-color: #e5e5e5;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.subslogan {
+    color: #78726d;
+    display: flex;
+    justify-content: center;
 }
