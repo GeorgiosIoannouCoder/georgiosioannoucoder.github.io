@@ -2,10 +2,10 @@
 title: GeorgiosIoannouCoder
 email: gioanno000@citymail.cuny.edu
 url: https://georgiosioannoucoder.github.io/
-description: "GeorgiosIoannouCoder GitHub Pages" # "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "GeorgiosIoannouCoder GitHub Portfolio GeorgiosIoannou" # "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Data Science, Full-Stack Web App Development, Project"
 skills: "Data Science | Full-Stack Web App Development"
-meta_author: Ioannou Georgios
+meta_author: Ioannou_Georgios
 
 # Google webmaster tools
 google_verify:
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c7b268
-  primary-rgb: "199,178,104"
-  secondary: 78726d
-  secondary-dark: 9c8842
+  primary: 022964
+  primary-rgb: "2,41,100"
+  secondary: 081433
+  secondary-dark: 00000a
 
 # Footer settings
 footer:
